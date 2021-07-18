@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm?highlight=spotify:track:4n7jnSxVLd8QioibtTDBDq)
+[<iframe src="https://open.spotify.com/embed/track/4n7jnSxVLd8QioibtTDBDq" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>](https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm?highlight=spotify:track:4n7jnSxVLd8QioibtTDBDq
 
 ### Connect with me:
 
