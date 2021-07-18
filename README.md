@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<iframe src="https://open.spotify.com/embed/track/4n7jnSxVLd8QioibtTDBDq" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>](https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm?highlight=spotify:track:4n7jnSxVLd8QioibtTDBDq
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDeFK-MdK9iHYuDxh8O5KOj-1C3x49BUaftQ&usqp=CAU" alt="My favorite Spotify Playing" width="350" />](https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm?highlight=spotify:track:4n7jnSxVLd8QioibtTDBDq)
 
 ### Connect with me:
 
