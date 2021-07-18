@@ -28,7 +28,7 @@
 <br>
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />]()   ![50%](https://progress-bar.dev/50)
 <br>
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />]()       ![65%](https://progress-bar.dev/50)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />]()       ![65%](https://progress-bar.dev/65)
 
 
 <!---
