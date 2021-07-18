@@ -7,6 +7,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://i.pinimg.com/564x/3d/50/8d/3d508d6a79eae336df8629c89eafaaf2.jpg" alt="My favorite Spotify Playing" width="350" />](https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm?highlight=spotify:track:4n7jnSxVLd8QioibtTDBDq)
+## ON MY WAY ~ ALAN WALKER
 
 ### Connect with me:
 
