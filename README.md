@@ -1,4 +1,4 @@
-<img src="<img src="https://i.pinimg.com/564x/3d/50/8d/3d508d6a79eae336df8629c89eafaaf2.jpg" alt="My favorite Spotify Playing" width="350" />" alt="My favorite Spotify Playing" width="350" />
+<img src="<img src="#" alt="My favorite Spotify Playing" width="350" />" alt="My favorite Spotify Playing" width="350" />
 
 ## Hiii! I'm subhajit !
 
