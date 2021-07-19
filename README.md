@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/subhajit4980/myname/main/InShot_20210719_220925169.jpg" alt="My favorite Spotify Playing" width="3500" height="280" />
 
-## Hiii! I'm subhajit !
+## Hiii!!
 
 - 👀 I’m interested in AI &ML
 - 🌱 I’m currently learning ...
