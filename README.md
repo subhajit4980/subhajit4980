@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/subhajit4980/myname/main/InShot_20210719_220925169.jpg" alt="My favorite Spotify Playing" width="3500" height="200" />
+<img src="https://raw.githubusercontent.com/subhajit4980/myname/main/InShot_20210719_220925169.jpg" alt="My favorite Spotify Playing" width="3500" height="280" />
 
 ## Hiii! I'm subhajit !
 
