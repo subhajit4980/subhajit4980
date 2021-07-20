@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/subhajit4980/myname/main/InShot_20210719_220925169.jpg" alt="My favorite Spotify Playing" width="3500"  height="280" />
 <h2 align="center">Hope you are doing good,Thanks for visiting my profile 😊</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit4980&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit4980" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=subhajit4980&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit4980" /> </p>
 
 ## Hiii!!
 
