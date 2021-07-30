@@ -45,7 +45,7 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a></P>
  
-<p><img align="center" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit4980&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="subhajit4980" /></p> <p> &nbsp; <img align="center"width="50%" src="https://github-readme-stats.vercel.app/api?username=subhajit4980&show_icons=true&locale=en&theme=tokyonight" alt="subhajit4980" />
+<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit4980&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="subhajit4980" /></p> <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit4980&show_icons=true&locale=en&theme=tokyonight" alt="subhajit4980" />
 </p>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit4980&&theme=tokyonight" alt="subhajit4980" /></p>
 
