@@ -27,7 +27,7 @@
 <a href="https://github.com/subhajit4980/subhajit4980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="myselfdeepdas" height="50" width="50" /></a>
 </p>
 <br>
-<!-- ### 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile) -->
+
 ### Web development(Basic skills):
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/default.asp)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/)
