@@ -28,7 +28,7 @@
 </p>
 
 
-<h2 align="center"> Web development(Basic skills)</h2>
+<h3 align="center"> Web development(Basic skills)</h3>
 <p align="center">
 <a href="https://www.w3schools.com/html/default.asp"> <img align="center" alt="HTML5" height="50" width="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/"><img align="center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
@@ -36,14 +36,16 @@
 </p>
 
 
-<h3 align="center">👩‍💻 Languages [🔝] 🛠 </h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
+<h3 align="center">LANGUAGES</h3>
+ <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
  
-<h3 align="center">Tools:-</h3>
-  <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit4980&show_icons=true&locale=en&layout=compact" alt="subhajit4980" /></p> <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit4980&show_icons=true&locale=en" alt="subhajit4980" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit4980&" alt="subhajit4980" /></p>
+<h3 align="center">TOOLS</h3>
+  <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a></P>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit4980&show_icons=true&locale=en&layout=compact" alt="subhajit4980" /></p> <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit4980&show_icons=true&locale=en" alt="subhajit4980" />
+<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a></p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit4980&" alt="subhajit4980" /></p>
 
 
 <!---
