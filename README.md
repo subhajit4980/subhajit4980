@@ -38,7 +38,9 @@
 
 
 <h2 align ="center"> 👩‍💻 Languages [🔝]<h2>
-[<a href="https://www.cprogramming.com/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>]() ![50%](https://progress-bar.dev/50)   [<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>]()  ![50%](https://progress-bar.dev/50) [<a href=""><img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />]()  ![65%](https://progress-bar.dev/65)
+[<a href="https://www.cprogramming.com/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>]() ![50%](https://progress-bar.dev/50)   
+ [<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>]()  ![50%](https://progress-bar.dev/50)
+ [<a href=""><img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />]()  ![65%](https://progress-bar.dev/65)
  
   ### Tools:-
   <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
