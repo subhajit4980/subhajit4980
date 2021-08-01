@@ -49,7 +49,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit4980&&theme=tokyonight" alt="subhajit4980" /></p>
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit4980&)"><img src="https://activity-graph.herokuapp.com/graph?username=rohan-kulkarni-25&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit4980&)"><img src="https://activity-graph.herokuapp.com/graph?username=subhajit4980&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
 
 <!---
