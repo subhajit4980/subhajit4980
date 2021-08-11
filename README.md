@@ -45,7 +45,9 @@
   <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a></P>
- 
+ <summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=subhajit4980&theme=monokai&row=1&no-frame=true&no-bg=true/">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit4980&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="subhajit4980" /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit4980&show_icons=true&locale=en&theme=tokyonight" alt="subhajit4980" /></p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit4980&&theme=tokyonight" alt="subhajit4980" /></p>
