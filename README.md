@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhajit4980&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit4980" /> </p>
 
-<h2 align="center">📱 Android Developer | 🤖 Machine Learning Enthusiast | ☕ Backend Developer (Spring boot)</h2>
+<h2 align="center">📱 Android Developer | 🤖ML Enthusiast | ☕ Backend Developer (Spring boot) | ☁ Cloud (AWS) </h2>
 
 - **🔥 Passionate about crafting robust Android apps that enhance user experiences.**
 - **💡 Exploring the exciting world of machine learning to create intelligent applications.**
