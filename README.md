@@ -1,20 +1,16 @@
 <!-- <img src="https://raw.githubusercontent.com/subhajit4980/myname/main/InShot_20210719_220925169.jpg" alt="My favorite Spotify Playing" width="3500"  height="280" /> -->
-<h1 align="center"> Hiii!! I'm subhajit patra</h1>
+<h1 align="center">👋 Hiii!! I'm subhajit patra</h1>
 <h2 align="center">Hope you are doing good,Thanks for visiting my profile 😊</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhajit4980&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit4980" /> </p>
 
+📱 Android Developer | 🤖 Machine Learning Enthusiast | ☕ Spring Boot Developer
 
-- 👀 I’m interested in AI &ML
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on others developers
+🔥 Passionate about crafting robust Android apps that enhance user experiences.
+💡 Exploring the exciting world of machine learning to create intelligent applications.
+🌱 Building scalable backend services with Spring Boot to support modern applications.
 
-### Spotify Playing 🎧
-
-[<img src="https://i.pinimg.com/564x/3d/50/8d/3d508d6a79eae336df8629c89eafaaf2.jpg" alt="My favorite Spotify Playing" width="350" />](https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm?highlight=spotify:track:4n7jnSxVLd8QioibtTDBDq)
-<br>
--- ON MY WAY ~ ALAN WALKER
-
+🚀 Let's connect and collaborate on innovative projects!
 
 <h2 align="center">:Connect with me:</h2>
 <p align="center">
