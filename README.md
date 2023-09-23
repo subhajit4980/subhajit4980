@@ -6,6 +6,7 @@
 
 <h2 align="center">📱 Android Developer | 🤖ML Enthusiast <br>☕ Backend Developer (Spring boot) | ☁ Cloud (AWS) </h2>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 - **🔥 Passionate about crafting robust Android apps that enhance user experiences.**
 - **💡 Exploring the exciting world of machine learning to create intelligent applications.**
