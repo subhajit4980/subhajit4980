@@ -6,11 +6,14 @@
 
 📱 Android Developer | 🤖 Machine Learning Enthusiast | ☕ Spring Boot Developer
 
-- 🔥 Passionate about crafting robust Android apps that enhance user experiences.
-- 💡 Exploring the exciting world of machine learning to create intelligent applications.
-- 🌱 Building scalable backend services with Spring Boot to support modern applications.
+- **🔥 Passionate about crafting robust Android apps that enhance user experiences.**
+- **💡 Exploring the exciting world of machine learning to create intelligent applications.**
+- **🌱 Building scalable backend services with Spring Boot to support modern applications.**
+- **🌩️ Exploring the limitless possibilities of cloud technologies to build scalable and resilient solutions.**
+- **🌐 On a journey to master CI/CD pipelines for seamless software delivery and automation.**
+- **🔧 Committed to efficient problem-solving and continuously enhancing my tech skills.**
 
-- 🚀 Let's connect and collaborate on innovative projects!
+- **🚀 Let's connect and collaborate on innovative projects!**
 
 <h2 align="center">:Connect with me:</h2>
 <p align="center">
