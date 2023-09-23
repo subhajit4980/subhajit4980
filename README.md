@@ -5,7 +5,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhajit4980&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit4980" /> </p>
 
 <h2 align="center">📱 Android Developer | 🤖ML Enthusiast <br>☕ Backend Developer (Spring boot) | ☁ Cloud (AWS) </h2>
-``
+
+```
 - **🔥 Passionate about crafting robust Android apps that enhance user experiences.**
 - **💡 Exploring the exciting world of machine learning to create intelligent applications.**
 - **🌱 Building scalable backend services with Spring Boot to support modern applications.**
@@ -14,7 +15,7 @@
 - **🔧 Committed to efficient problem-solving and continuously enhancing my tech skills.**
 
 - **🚀 Let's connect and collaborate on innovative projects!**
-``
+```
 <h2 align="center">:Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/subhajit-patra-03736a200/" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit" height="50" width="50" /></a>
