@@ -8,7 +8,7 @@
 
 <h2 >📱 Android Developer <br> 🤖ML Enthusiast<br>☕ Backend Developer (Spring boot) <br> ☁ Cloud (AWS)</h2>
 
-
+### About me
 - **🔥 Passionate about crafting robust Android apps that enhance user experiences.**
 - **💡 Exploring the exciting world of machine learning to create intelligent applications.**
 - **🌱 Building scalable backend services with Spring Boot to support modern applications.**
