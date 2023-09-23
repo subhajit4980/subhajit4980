@@ -1,4 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/subhajit4980/myname/main/InShot_20210719_220925169.jpg" alt="My favorite Spotify Playing" width="3500"  height="280" /> -->
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+
 <h1 >👋 Hiii!! I'm subhajit patra</h1>
 <h2 >Hope you are doing good,Thanks for visiting my profile 😊</h2>
 
@@ -6,7 +8,6 @@
 
 <h2 >📱 Android Developer | 🤖ML Enthusiast <br>☕ Backend Developer (Spring boot) | ☁ Cloud (AWS) </h2>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 - **🔥 Passionate about crafting robust Android apps that enhance user experiences.**
 - **💡 Exploring the exciting world of machine learning to create intelligent applications.**
